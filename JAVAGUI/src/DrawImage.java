@@ -7,6 +7,7 @@ public class DrawImage extends Frame
 	public static void main(String[] args)
 	{
 		//sth new
+		//sth new
 		DrawImage f=new DrawImage();
 		f.init();
 	}
